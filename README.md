@@ -8,5 +8,5 @@ I am a professor in the Electrical and Computer Engineering Department at the Un
 * GitHub
 * FORTRAN
 * MATLAB
-* MPI Parallel Programming
+* Message Passing Interface (MPI) Parallel Programming
 * HDF5 Parallel I/O
